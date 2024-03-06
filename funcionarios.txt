@@ -1,0 +1,6 @@
+nome,idade,salario
+Ana,20,
+Bruno,,7600.5
+,25,12900.0
+Daniela,30,39000.0
+,21,4000.0
