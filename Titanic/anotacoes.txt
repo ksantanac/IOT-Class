@@ -1,7 +1,0 @@
-Pré Processamento de Dado:
-
-- Dropar colunas irrelevantes
-- Dropar colunas com muitos NaN
-- Limpar linhas com NaN
-- Aplicar a Normalização ou Padronização (Distribuição Gaussiana)
-- Aplicar One Hot encoding

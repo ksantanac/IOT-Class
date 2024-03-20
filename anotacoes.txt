@@ -1,0 +1,23 @@
+Pré Processamento de Dado:
+
+- Dropar colunas irrelevantes
+
+- Dropar colunas com muitos NaN
+
+- Limpar linhas com NaN
+
+- Aplicar a Normalização ou Padronização (Distribuição Curva Gaussiana)
+
+- Curva Gaussiana -> Padronização
+
+- Aplicar One Hot encoding
+
+- String | Posso trocar por letra -> dado categórioco (GET_DUMMIES(df, colunas)) One Hot Encoding
+
+- Plotar o gráfico para identificar a padronização ou Normalização
+
+- Apllicar 70 30, 70% para treinar e 30% para testar
+
+- Saida -> Y || Entradas (tudo menos Y) -> X
+
+- K -> raiz qtd de linhas do df
