@@ -2,6 +2,8 @@ Pré Processamento de Dado:
 
 - Dropar colunas irrelevantes
 
+- Padronizar tem número negativo
+
 - Dropar colunas com muitos NaN
 
 - Limpar linhas com NaN
